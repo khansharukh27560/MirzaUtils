@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MirzaUtils/static/css/main.e6c13ad2.css",
+    "main.js": "/MirzaUtils/static/js/main.03f55c4f.js",
+    "static/js/734.75cafc89.chunk.js": "/MirzaUtils/static/js/734.75cafc89.chunk.js",
+    "index.html": "/MirzaUtils/index.html",
+    "main.e6c13ad2.css.map": "/MirzaUtils/static/css/main.e6c13ad2.css.map",
+    "main.03f55c4f.js.map": "/MirzaUtils/static/js/main.03f55c4f.js.map",
+    "734.75cafc89.chunk.js.map": "/MirzaUtils/static/js/734.75cafc89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.03f55c4f.js"
+  ]
+}
